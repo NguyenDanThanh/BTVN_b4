@@ -1,0 +1,101 @@
+body{
+    border: 1px solid blue;
+}
+
+
+body>h1{
+    text-align: center;
+}
+
+
+.p{
+    text-align: left;
+    width: 50%;
+}
+
+
+.content{
+    width: 48%;
+    margin-left: 150px;
+}
+
+
+.img{
+    width: 48%;
+}
+
+
+.Smart_Home{
+    display: flex;
+    background-color: rgb(230, 223, 223);
+}
+.name_1{
+    background-color: #F4F4F4;
+    width: 19%;
+    margin-left: 30px;
+}
+
+
+.name_2{
+    background-color: #F4F4F4;
+    width: 19%;
+    margin-left: 30px;
+}
+.Sell_1{
+    text-align: center;
+    width: 48%;
+    margin-left: 50px;
+}
+
+
+.Sell_2{
+    text-align: center;
+    width: 48%;
+}
+
+
+.content_1{
+    display: flex;
+    margin-left: 60px;
+}
+
+
+.word_, .word_1{
+    margin-left: 120px;
+   
+}
+
+
+.Sell{
+    display:flex;
+}
+
+
+.table{
+    margin-left: 600px;
+   
+}
+.img10{
+    width: 48%;
+}
+.info{
+    width: 48%;
+}
+
+
+.content_3{
+    display: flex;
+    padding-top: 50px;
+    margin-left: 900px;
+}
+.footer{
+    text-align: center;
+    background-color:aqua;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+.final{
+    border: 3px solid aqua;
+}
